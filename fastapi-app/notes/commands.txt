@@ -1,0 +1,5 @@
+# Remove using just the name
+git remote remove origin
+
+# Now add the new SSH URL
+git remote add origin git@github.com:BasileKoko/training.git
