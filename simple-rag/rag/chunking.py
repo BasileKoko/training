@@ -1,24 +1,23 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pathlib import Path
+from rag.loading import load_policy_documents
 
 
-# Load example document
-ROOT_DIR = Path(__file__).resolve().parent.parent
-policy_path = ROOT_DIR / "docs" / "company_policy_handbook.txt"
+def get_policy_chunks() -> list:
+    # 1. Load documents from the loading module
+    documents = load_policy_documents()
 
-with open(policy_path) as f:
-    company_policy= f.read()
+    # 2. Configure splitter
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500,
+        chunk_overlap=50,
+        length_function=len,
+    )
 
-text_splitter = RecursiveCharacterTextSplitter(
-    # Set a really small chunk size, just to show.
-    chunk_size=100,
-    chunk_overlap=20,
-    length_function=len,
-    is_separator_regex=False,
-)
+    # 3. Split and return chunks
+    return text_splitter.split_documents(documents)
 
-texts = text_splitter.create_documents([company_policy])
-print(texts[0])
-print(texts[1])
-print(texts[2])
-print(texts[3])
+
+if __name__ == "__main__":
+    chunks = get_policy_chunks()
+    # print(f"Successfully generated {len(chunks)} chunks.")
+    # print(f"First chunk preview:\n{chunks[0].page_content[:150]}...")

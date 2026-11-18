@@ -1,0 +1,156 @@
+================================================================================
+AETHERIA DYNAMICS INC. - EMPLOYEE HANDBOOK & CORPORATE POLICIES
+SECTION: HEALTH, SAFETY, AND ENVIRONMENTAL COMPLIANCE
+Effective Date: January 1, 2026
+Document Version: 4.2
+Classification: Internal Corporate Governance & Operations
+================================================================================
+
+1. PURPOSE AND SCOPE
+--------------------
+Aetheria Dynamics Inc. ("the Company") is committed to maintaining a safe,
+healthy, and productive working environment for all employees, contractors,
+visitors, and stakeholders. This Health & Safety Policy applies across all
+corporate offices, research laboratories, hardware testing facilities, and
+remote work environments operated by Aetheria Dynamics Inc.
+
+Compliance with these procedures is a condition of employment. Every team
+member shares responsibility for identifying hazards, adhering to safety
+protocols, and promoting a proactive safety culture.
+
+
+2. ROLES AND RESPONSIBILITIES
+-----------------------------
+2.1 Executive Leadership & Safety Committee
+- Allocate necessary financial and operational resources to maintain workplace
+  safety standards.
+- Conduct quarterly safety audits and review incident reports through the
+  Corporate Health & Safety Committee (CHSC).
+- Ensure full compliance with applicable occupational health and safety
+  regulations.
+
+2.2 Department Managers & Team Leads
+- Ensure all new hires and contractors complete mandatory safety onboarding
+  prior to accessing workspaces or equipment.
+- Enforce daily adherence to Personal Protective Equipment (PPE) requirements
+  and operational Standard Operating Procedures (SOPs).
+- Promptly investigate and document all workplace hazards, near-misses, and
+  injuries within their teams.
+
+2.3 Employees & Contractors
+- Follow all posted safety instructions, equipment manuals, and emergency
+  procedures.
+- Immediately report unsafe conditions, damaged equipment, or suspicious
+  activity to a supervisor or the Safety Desk.
+- Refrain from operating specialized machinery, high-voltage systems, or
+  chemical agents without documented certification.
+
+
+3. WORKPLACE & FACILITY SAFETY PROTOCOLS
+----------------------------------------
+3.1 General Office & Ergonomic Standards
+- Workstation Setup: Employees are entitled to an ergonomic assessment upon
+  hire and annually thereafter. Monitors should be positioned at eye level,
+  and adjustable seating must be utilized properly.
+- Walkways & Exits: All corridors, stairwells, fire exits, and electrical
+  panels must remain completely unobstructed at all times. Storage of boxes or
+  cables in walkways is strictly prohibited.
+- Electrical Safety: Daisy-chaining power strips or surge protectors is
+  forbidden. Frayed cords or malfunctioning outlets must be tagged out and
+  reported to Facilities immediately.
+
+3.2 Hardware Labs & High-Voltage Testing Zones
+- Access Control: Entry to Restricted Engineering Labs (Zones B and C) requires
+  Level-2 badge clearance and completion of the High-Voltage & Electrostatic
+  Discharge (ESD) Safety Module.
+- Personal Protective Equipment (PPE): Safety glasses (ANSI Z87.1 rated),
+  ESD-safe wrist straps, and closed-toe shoes are mandatory inside active
+  hardware testing bays.
+- Lockout/Tagout (LOTO): Before performing maintenance or calibration on
+  energized equipment exceeding 50V, technicians must execute full
+  Lockout/Tagout procedures and verify zero-energy states.
+- Battery & Thermal Testing: Lithium-ion battery stress tests must occur
+  exclusively inside ventilated blast-containment enclosures equipped with
+  Class D fire suppression systems.
+
+3.3 Remote & Hybrid Work Safety
+- Remote employees must maintain a dedicated, hazard-free home workspace with
+  adequate lighting, ventilation, and grounded electrical outlets.
+- Work-related injuries sustained during designated working hours in a home
+  office must be reported to Human Resources within 24 hours, following
+  standard incident reporting guidelines.
+
+
+4. EMERGENCY PROCEDURES & EVACUATION
+------------------------------------
+4.1 Fire & Structural Evacuation
+1. Alarm Activation: Upon hearing the continuous building alarm or receiving an
+   emergency SMS alert, immediately cease all work and power down active bench
+   equipment if safe to do so.
+2. Evacuation: Proceed calmly to the nearest illuminated emergency exit. Do
+   not use elevators.
+3. Assembly Point: Report directly to your designated Floor Warden at Assembly
+   Zone North (Parking Lot B) for headcount verification.
+4. Re-entry: Do not re-enter the facility until the all-clear signal is
+   formally issued by Emergency Services and the Chief Safety Officer.
+
+4.2 Medical Emergencies & First Aid
+- Automated External Defibrillators (AEDs) and trauma first-aid kits are
+  mounted beside the main elevator banks on every floor and outside Lab Zone B.
+- In the event of a severe injury, chemical exposure, or medical crisis, dial
+  911 (or local emergency services) immediately, then notify Security at
+  internal extension #4400.
+
+4.3 Severe Weather & Shelter-in-Place
+- During tornado warnings, severe storms, or external hazardous material
+  releases, move immediately to interior windowless rooms on the ground floor
+  (Rooms 104-112) until official clearance is given.
+
+
+5. INCIDENT & NEAR-MISS REPORTING
+---------------------------------
+Aetheria Dynamics operates a non-punitive reporting policy for safety hazards
+and near-misses. Learning from close calls prevents future injuries.
+
+- Reporting Timeline: All workplace injuries, illnesses, property damage, and
+  near-misses must be logged in the Aetheria Safety Portal
+  (safety.aetheria-internal.com) within 24 hours of occurrence.
+- Critical Incidents: Any incident requiring hospitalization or involving
+  hazardous material spills must be reported verbally to the Environmental
+  Health & Safety (EHS) Director within 1 hour.
+- Investigation: The EHS team will conduct a root-cause analysis within 5
+  business days of any logged incident and publish corrective action updates.
+
+
+6. HEALTH, WELLNESS & SUBSTANCE POLICY
+--------------------------------------
+6.1 Drug-Free & Alcohol-Free Workplace
+- The manufacture, distribution, possession, or use of illegal drugs or
+  unauthorized controlled substances on Company premises or while conducting
+  Company business is strictly prohibited.
+- Alcohol is prohibited during working hours except at officially sanctioned
+  corporate events where moderate consumption is permitted; operating
+  machinery or driving on Company business under any level of impairment is
+  zero-tolerance.
+
+6.2 Communicable Illness & Sick Leave
+- Employees experiencing fever, acute respiratory symptoms, or contagious
+  illnesses must remain at home and utilize accrued sick leave or remote work
+  arrangements until symptom-free for 24 hours without fever-reducing
+  medication.
+
+6.3 Mental Health & Employee Assistance Program (EAP)
+- Aetheria Dynamics provides confidential 24/7 counseling, stress management
+  resources, and crisis support to all employees and their immediate
+  household members via the Aetheria Care EAP (Toll-Free: 1-800-555-0199).
+
+
+7. POLICY ACKNOWLEDGMENT
+------------------------
+Violation of safety protocols—including bypassing safety interlocks, disabling
+sensors, or failing to wear required PPE in restricted zones—may result in
+disciplinary action up to and including termination of employment.
+
+All employees must sign the digital acknowledgment form in the HR Compliance
+Portal within 14 days of the Effective Date listed above.
+================================================================================

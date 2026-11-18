@@ -8,3 +8,5 @@ rag_chain = RetrievalQA.from_chain_type(
     retriever=retriever,
     return_source_documents=True
 )
+
+retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
