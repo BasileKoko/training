@@ -1,0 +1,63 @@
+================================================================================
+AETHERIA DYNAMICS INC. - EMPLOYEE HANDBOOK & CORPORATE POLICIES
+Effective Date: January 1, 2026
+Document Version: 4.2
+================================================================================
+
+1. COMPANY OVERVIEW & WORKING HOURS
+Aetheria Dynamics Inc. operates on a hybrid work model. Standard core working hours are Monday through Friday, 9:00 AM to 5:00 PM EST, with a mandatory 1-hour unpaid lunch break.
+- Core Collaboration Hours: All employees, regardless of location, must be available on Slack and Zoom between 10:30 AM and 3:30 PM EST.
+- Office Days: Employees living within 30 miles of the Boston or Austin hubs are required to work in-office on Tuesdays and Thursdays.
+
+2. PAID TIME OFF (PTO) & LEAVE POLICIES
+Aetheria Dynamics provides a tiered PTO accrual system based on tenure:
+- 0 to 2 years of service: 15 days (120 hours) per calendar year.
+- 3 to 5 years of service: 20 days (160 hours) per calendar year.
+- 6+ years of service: 25 days (200 hours) per calendar year.
+
+2.1 PTO Rollover & Payout
+Up to 5 days (40 hours) of unused PTO may be carried over into the next calendar year. Any carried-over PTO must be used by March 31st, or it will be forfeited. Unused PTO is not paid out upon voluntary resignation unless required by state law.
+
+2.2 Sick Leave & Bereavement
+- Sick Leave: Full-time employees receive 10 days (80 hours) of paid sick leave annually. A doctor's note is required for absences exceeding 3 consecutive workdays.
+- Bereavement Leave: Employees are granted up to 5 days of paid leave for the loss of an immediate family member (spouse, child, parent, sibling) and 2 days for extended family.
+
+2.3 Parental Leave
+Primary caregivers are eligible for 16 weeks of 100% paid parental leave following the birth or adoption of a child. Secondary caregivers are eligible for 6 weeks of 100% paid leave. Employees must be employed at Aetheria Dynamics for at least 6 months prior to the event to qualify.
+
+3. EXPENSE REIMBURSEMENT & TRAVEL
+All business expenses must be submitted via the "ExpensifyPro" portal within 30 days of the transaction date. Itemized receipts are mandatory for any expense over $25.00.
+
+3.1 Travel & Lodging
+- Flights: Economy class only for domestic flights. Business class is permitted only for international flights exceeding 8 hours in duration.
+- Hotels: Maximum nightly rate of $250.00 (excluding taxes) for standard cities, and up to $375.00 for high-cost Tier-1 cities (New York, San Francisco, London, Tokyo).
+- Meals (Per Diem): Up to $75.00 per day when traveling overnight. Alcohol is strictly non-reimbursable unless pre-approved by a VP for a client-facing dinner.
+
+3.2 Home Office Stipend
+New full-time hires receive a one-time $600.00 Home Office Stipend to purchase ergonomic equipment (desk, chair, monitor). Receipts must be submitted within the first 90 days of employment.
+
+4. INFORMATION SECURITY & IT PROTOCOLS
+Protecting company and client data is paramount. Failure to adhere to these protocols may result in disciplinary action, up to and including termination.
+
+4.1 Password & Authentication Policy
+- Passwords must be at least 14 characters long and include uppercase, lowercase, numbers, and special characters.
+- Multi-Factor Authentication (MFA) via Okta Verify is mandatory for all corporate applications.
+- Passwords must be rotated every 90 days.
+
+4.2 Acceptable Use & AI Tools
+- Company-issued laptops may not be used for personal commercial ventures or cryptocurrency mining.
+- Public Generative AI tools (e.g., public ChatGPT, Claude) must NEVER be fed proprietary source code, Personally Identifiable Information (PII), or confidential client data. Employees must use the internal enterprise-sandboxed instance ("AetheriaGPT") for work-related AI tasks.
+
+4.3 Lost or Stolen Devices
+If a company laptop or mobile device is lost or stolen, the employee must notify the IT Security Helpdesk (security@aetheriadynamics.example.com or ext. 4400) within 2 hours of discovering the loss so a remote wipe can be initiated.
+
+5. PERFORMANCE REVIEWS & PROMOTIONS
+Formal performance evaluations occur biannually in June (Mid-Year Check-in) and December (Annual Review).
+- Merit Increases: Salary adjustments are determined during the December cycle and take effect on February 1st of the following year.
+- Promotions: Employees must hold their current title for a minimum of 12 months and maintain a rating of "Exceeds Expectations" (4/5) or higher for two consecutive cycles to be eligible for promotion.
+
+6. WHISTLEBLOWER & CODE OF CONDUCT
+Aetheria Dynamics maintains a zero-tolerance policy toward workplace harassment, discrimination, and retaliation. Reports can be filed anonymously through the 24/7 Ethics Hotline at 1-800-555-0199 or online at ethics.aetheriadynamics.example.com. All reports are investigated within 5 business days by the Legal and HR Compliance team.
+================================================================================
+END OF DOCUMENT
+================================================================================
