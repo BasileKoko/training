@@ -1,0 +1,9 @@
+/opt/homebrew/bin/uv run /Users/basilehannekoko/workspace/training/simple-rag/.venv/bin/python /Users/basilehannekoko/workspace/training/simple-rag/rag/ingestion.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading documents...
+The plugin langchain_docling will not be loaded because Docling is being executed with allow_external_plugins=false.
+W1118 23:58:41.320000 13995 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 10953.92it/s]
+Stored 34 items in 'rag_project_docs' at /Users/basilehannekoko/workspace/training/simple-rag/chroma_db
+
+Process finished with exit code 0
