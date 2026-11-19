@@ -14,12 +14,14 @@ dependencies = [
     "fastapi",
     "uvicorn",
     "google",
+    "google-genai",
     "dotenv",
     "langchain_text_splitters",
     "langchain_docling",
     "docling-slim[format-markdown]",
     "langchain_huggingface",
-    "langchain_chroma"
+    "langchain_chroma",
+    "protobuf>=7.36.2",
 ]
 
 [project.scripts]

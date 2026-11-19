@@ -20,6 +20,6 @@ def retrieve_documents(query_text: str, n_results: int = 3):
     )
 
 
-if __name__ == "__main__":
-    print("Count:", collection.count())
-    print(retrieve_documents("parental leave eligibility"))
+# if __name__ == "__main__":
+#     print("Count:", collection.count())
+#     print(retrieve_documents("parental leave eligibility"))

@@ -19,5 +19,5 @@ def get_policy_chunks() -> list:
 
 if __name__ == "__main__":
     chunks = get_policy_chunks()
-    # print(f"Successfully generated {len(chunks)} chunks.")
-    # print(f"First chunk preview:\n{chunks[0].page_content[:150]}...")
+    print(f"Successfully generated {len(chunks)} chunks.")
+    print(f"First chunk preview:\n{chunks[0].page_content[:150]}...")
