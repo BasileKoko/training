@@ -62,3 +62,4 @@ Ask a question: give me details of salary
 Answer:
 Based on the provided documents, salary adjustments (merit increases) are determined during the December cycle and take effect on February 1st of the following year.
 ```
+ggg
